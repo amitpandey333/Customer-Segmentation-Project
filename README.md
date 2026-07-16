@@ -103,14 +103,6 @@ GitHub: https://github.com/amitpandey333
 ### Power BI Dashboard
 ![Power BI Dashboard](powerbi_dashboard.png)
 
-
-### Customer Segmentation (Python)
-
-![Customer Segmentation](images/customer_segmentation_plot.png)
-
-### Power BI Dashboard
-
-![Power BI Dashboard](images/powerbi_dashboard.png)
 **Amit Pandey**
 
 GitHub: https://github.com/amitpandey333# Customer-Segmentation-Project
