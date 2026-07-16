@@ -94,9 +94,14 @@ Customer_Segmentation_Project/
 GitHub: https://github.com/amitpandey333
 
 ## Dashboard Preview
-Elbow_Method.png
-Customer_Segmentation.plot.png
-powerbi_dashboard.png
+### Elbow Method
+![Elbow Method](images/Elbow_Method.png)
+
+### Customer Segmentation (Python)
+![Customer Segmentation](images/Customer_Segmentation_plot.png)
+
+### Power BI Dashboard
+![Power BI Dashboard](images/powerbi_dashboard.png)
 
 
 ### Customer Segmentation (Python)
