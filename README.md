@@ -95,13 +95,13 @@ GitHub: https://github.com/amitpandey333
 
 ## Dashboard Preview
 ### Elbow Method
-![Elbow Method](images/Elbow_Method.png)
+![Elbow Method](Elbow_Method.png)
 
 ### Customer Segmentation (Python)
-![Customer Segmentation](images/Customer_Segmentation_plot.png)
+![Customer Segmentation](Customer_Segmentation_plot.png)
 
 ### Power BI Dashboard
-![Power BI Dashboard](images/powerbi_dashboard.png)
+![Power BI Dashboard](powerbi_dashboard.png)
 
 
 ### Customer Segmentation (Python)
